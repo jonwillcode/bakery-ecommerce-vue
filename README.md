@@ -1,4 +1,4 @@
-# bakery-vue
+# bakery-vue Vue.js
 
 ## Live demo
 [https://menjls.com/](https://menjls.com)
