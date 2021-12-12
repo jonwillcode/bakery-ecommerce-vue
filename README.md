@@ -1,5 +1,8 @@
 # bakery-vue
 
+## Live demo
+[https://menjls.com/](https://menjls.com)
+
 ## Description 
 - E-Commerce Vue.js front-end application designed for a pastry shop 🍩 
 - This project is responsive to any device size 
